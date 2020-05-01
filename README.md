@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Alex Lin
 
 You can use the [editor on GitHub](https://github.com/Lin-Alex/Lin-Alex.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
